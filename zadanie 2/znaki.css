@@ -1,0 +1,176 @@
+body{
+  background-color: rgb(151, 151, 151);
+}
+
+#menu
+        {
+            position: fixed;
+            width: 80px;
+            height: 100%;
+            float: left;
+            color: rgb(104, 220, 98);
+            margin: 5px;
+            border: red 1px solid;
+        }
+        img
+        {
+            width: 40px;
+            height: 40px;
+        }
+        #obraz
+        {
+            float: left;
+            margin-left: 300px;
+            margin-top: 200px;
+            border: red 5px solid;
+        }
+        #opis
+        {
+            color: rgb(0, 0, 0);
+            float: right;
+            width: 50%;
+            text-align: center;
+            margin-top: 130px;
+            margin-right: 112px;
+            border: red 5px solid;
+        }
+#opis{
+  background-color: white;
+  font-size: 35px;
+}
+#naglowek:hover{
+  color: white;
+}
+#navlist 
+{
+  position: relative;
+}
+  
+  #navlist li 
+{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  top: 0;
+}
+  
+#navlist li, #navlist a 
+{
+  height: 100px;
+  display: block;
+}
+  
+li 
+{
+  display: inline;
+  color: black;
+}
+  
+body
+{
+  background-image: url(tlo.png);
+  color:rgb(0, 0, 0);
+}
+
+h1
+{
+  text-align: center;
+  font-family: 'Comic Sans MS';
+}
+
+#naglowek
+{
+  align-items: center;
+  background-color: rgb(255, 0, 0);
+  color: white;
+  float: top;
+  height: 90px;
+  margin-bottom: 20px;
+}
+
+#obrazy
+{
+  text-align: center;
+}
+
+img
+{
+  margin: 5px;
+  padding: 0px;
+  width: 70%;
+}
+/*
+#z1
+{
+ left: 0;
+ top: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, 0;
+}
+
+#z2
+{
+ left: 0;
+ top: -40;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -40;
+}
+
+#z3
+{
+ left: 0;
+ top: -80;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -80;
+}
+
+#z4
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -120;
+}
+
+#z5
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -160;
+}
+
+#z6
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -200;
+}
+
+#z7
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -240;
+}
+
+#z8
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -280;
+}
+
+#z9
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -320;
+}
+
+#z10
+{
+ left: 0;
+ width: 40px;
+ background: url('../21.11.2022/znaki/znaki.png') 0, -360;
+}
+*/
